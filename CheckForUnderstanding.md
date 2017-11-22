@@ -15,7 +15,7 @@
   * PATCH: request to modify an existing entry
   * DELETE: request to remove an existing entry
 3. What is Node?
-  * Node is an open-source, cross-platfrom JavaScript enviroment for executing JS on the server side [1] built on Chrome's v8 JS engine [2]. It is an asynchronous event driven JS runtime designed to build scalable network applications by handling connections concurrently [3].
-- [1]: [Wikipedia] (https://goo.gl/agmzmF)
+  * Node is an open-source, cross-platfrom JavaScript enviroment for executing JS on the server side [1] built on Chrome's v8 JS engine [2]. It is an asynchronous event driven JS runtime designed to build scalable network applications by handling connections concurrently [3] .
+- [1]: [Wikipedia Article] (https://goo.gl/agmzmF)
 - [2]: [Node.js homepage](https://nodejs.org/en/)
 - [3]: [Node.js about section](https://nodejs.org/en/about/)
