@@ -4,7 +4,6 @@
 - Information that defines the operating parameters of an HTTP transaction. 
 - Examples of HTTP header information includes: 
   * RESTful method
-  * URI
   * HTTP version
   * User Agent
   * Content-Types
