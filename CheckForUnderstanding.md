@@ -10,10 +10,10 @@
   * Content-Types
   * Acceptable encoding, language, charset, etc.
 2. What are the major RESTful methods and what do each of them do?
-  * GET: request to retrieve an entry that already exists
-  * POST: request to create an entry
-  * PATCH: request to modify an existing entry
-  * DELETE: request to remove an existing entry
+  * **GET**: request to retrieve an entry that already exists
+  * **POST**: request to create an entry
+  * **PATCH**: request to modify an existing entry
+  * **DELETE**: request to remove an existing entry
 3. What is Node?
   * Node is an open-source, cross-platfrom JavaScript enviroment for executing JS on the server side [1] built on Chrome's v8 JS engine [2]. It is an asynchronous event driven JS runtime designed to build scalable network applications by handling connections concurrently [3] .
 - [1]: [Wikipedia Node.js article](https://goo.gl/agmzmF)
