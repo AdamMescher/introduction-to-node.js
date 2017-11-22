@@ -1,4 +1,4 @@
-##Check For Understanding - Research on Your Own
+## Check For Understanding - Research on Your Own
 
 1. What type of information is included in the header of a request?
 - They define the operating parameters of an HTTP transaction. 
